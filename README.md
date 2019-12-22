@@ -23,7 +23,8 @@ The following **required** functionality is completed:
 # Techincal project flow diagram
  ## 1. The user opens the app for the first time
  
- <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/Full_Flow_diagram1.jpg" />
- <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/Full_flow_diagram2.jpg" />
+ <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow1.png
+" />
+ <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow2..png" />
 
 

@@ -23,8 +23,8 @@ The following **required** functionality is completed:
 # Techincal project flow diagram
  ## 1. TCP Traffic Flow
  
- <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow1.png
-" />
+ <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow1.png" />
+
  <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow2..png" />
 
 

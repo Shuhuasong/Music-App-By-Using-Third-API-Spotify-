@@ -21,7 +21,7 @@ The following **required** functionality is completed:
  3. Spotify server
  
 # Techincal project flow diagram
- ## 1. The user opens the app for the first time
+ ## 1. TCP Traffic Flow
  
  <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow1.png
 " />

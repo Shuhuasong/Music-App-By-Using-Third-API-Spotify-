@@ -23,10 +23,10 @@ The following **required** functionality is completed:
 # Techincal project flow diagram
  ## 1. TCP Traffic Flow
  
- <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow1.png" />
+ <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow1.png" width = 500 />
 
- <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow2..png" />
+ <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow2..pn500width = 500/>
  
- <img src = "http://g.recordit.co/ewOP1SJ1hn.gif" width = 250> <br>
+ <img src = "http://g.recordit.co/ewOP1SJ1hn.gif" width = 500> <br>
 
 

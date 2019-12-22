@@ -26,5 +26,7 @@ The following **required** functionality is completed:
  <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow1.png" />
 
  <img src ="https://github.com/Shuhuasong/Music-App-By-Using-Third-API-Spotify-/blob/master/TCP%20Traffic%20Flow2..png" />
+ 
+ <img src = "http://g.recordit.co/ewOP1SJ1hn.gif" width = 250> <br>
 
 

@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 # APIs Used
 - [NodeJs](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
-- [Web Oauth2](https://developer.spotify.com/documentation/general/guides/authorization-guide/) - Documentation for basic Google Oauth2
+- [Web Oauth2](https://developer.spotify.com/documentation/general/guides/authorization-guide/) - Documentation for basic Spotify Oauth2
 - [Spotify API] (const search_endpoint = `https://api.spotify.com/v1/search?q=${user_input}&type=album`;)- This free api allows the app to get all the albums available for this singer
 
 # Endpoints

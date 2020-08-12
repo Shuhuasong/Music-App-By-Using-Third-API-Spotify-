@@ -1,5 +1,5 @@
 # cs355_project
-# MusicAppByUsingThirdAPISpotify
+# Music-App-By-Using-Third-API-Spotify
 **Music App shows every singer's album pictures
 
 
